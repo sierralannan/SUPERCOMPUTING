@@ -1,8 +1,8 @@
 
-# Assignment 2, Sierra Lannan, February 11nd 2026
+# Assignment 2, Sierra Lannan, February 11th 2026
 
 ## My reflection (4–5 sentences) on what worked, what was hard, and what you'd change
-#### I think the first thing I would change (after getting feedback on assingment 1) is to start using relative file paths, rather than "moving around" with cd. I got this feedback back after already completing assignment 2 and am realizing now when reviewing this assignment this is definetely a habit I need to break, as I do it in this assignment as well. This is something I will focus on in assignment 3. I think I also have a bad habit of logging things in my README.md as I go, so I need to do this more frequently between steps to help my future self. I think breaking up this assingment into multiple work sessions is also harder because something I forget what I alreay did, but this is why my documentation is important.
+#### I think the first thing I would change (after getting feedback on assignment 1) is to start using relative file paths, rather than "moving around" with cd. I got this feedback back after already completing assignment 2 and am realizing now when reviewing this assignment this is definetely a habit I need to break, as I do it in this assignment as well. This is something I will focus on in assignment 3. I think I also have a bad habit of not logging things in my README.md as I go, so I need to do this more frequently between steps to help my future self. I think breaking up this assignment into multiple work sessions is also harder because sometime I forget what I already did, but this is why my documentation is important.
 
 ## Task 1
 ### Logging into the HPC
