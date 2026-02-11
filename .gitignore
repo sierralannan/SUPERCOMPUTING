@@ -4,4 +4,6 @@ assignments/assignment_01/data
 
 # ignore data from assignment_02
 
-assignments/assignment_02/data
+GCF_000005845.2_ASM584v2_genomic.fna.gz  
+GCF_000005845.2_ASM584v2_genomic.gff.gz
+
