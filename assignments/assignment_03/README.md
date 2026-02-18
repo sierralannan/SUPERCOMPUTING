@@ -1,4 +1,4 @@
-# Assignment 2, Sierra Lannan, February 17th 2026
+# Assignment 3, Sierra Lannan, February 17th 2026
 
 ## Task 1
 ### Navigating to my assignment 3 directory and setting it up
